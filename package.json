@@ -1,0 +1,19 @@
+{
+  "name": "crude-node",
+  "version": "1.0.0",
+  "description": "Description of your Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build" : "npm start"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
